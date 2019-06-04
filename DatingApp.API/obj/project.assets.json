@@ -12432,11 +12432,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\SPARK\\Documents\\ProjectsCoreWebAPI\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+      "projectUniqueName": "C:\\Users\\SPARK\\Documents\\ProjectsCoreWebAPI\\DatingApp01\\DatingApp.API\\DatingApp.API.csproj",
       "projectName": "DatingApp.API",
-      "projectPath": "c:\\Users\\SPARK\\Documents\\ProjectsCoreWebAPI\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+      "projectPath": "C:\\Users\\SPARK\\Documents\\ProjectsCoreWebAPI\\DatingApp01\\DatingApp.API\\DatingApp.API.csproj",
       "packagesPath": "C:\\Users\\SPARK\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\SPARK\\Documents\\ProjectsCoreWebAPI\\DatingApp\\DatingApp.API\\obj\\",
+      "outputPath": "C:\\Users\\SPARK\\Documents\\ProjectsCoreWebAPI\\DatingApp01\\DatingApp.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\ProgramData\\Xamarin\\NuGet\\",
